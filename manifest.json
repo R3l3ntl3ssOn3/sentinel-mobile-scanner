@@ -1,0 +1,17 @@
+{
+  "name": "SENTINEL Personal Scanner",
+  "short_name": "SENTINEL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d16",
+  "theme_color": "#080d16",
+  "description": "Personal crypto market scanner and trading-learning tool",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
